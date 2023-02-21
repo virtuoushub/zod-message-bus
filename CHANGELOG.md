@@ -1,5 +1,11 @@
 # @total-typescript/zod-message-bus
 
+## 0.1.1
+
+### Patch Changes
+
+- b648d6f: Implemented functionality with Zod
+
 ## 0.1.0
 
 ### Minor Changes
