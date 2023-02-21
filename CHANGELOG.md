@@ -1,4 +1,4 @@
-# @total-typescript/zod-message-bus
+# @total-typescript/zod-message-protocol
 
 ## 0.1.1
 

@@ -1,17 +1,13 @@
-Zod Message Bus
-=============
+# Zod Message Bus
 
 1. **Zod Message Bus** lets you ...
 
-Installation
------------
+## Installation
 
-`pnpm add @total-typescript/zod-message-bus`
+`pnpm add @total-typescript/zod-message-protocol`
 
-`npm i @total-typescript/zod-message-bus`
+`npm i @total-typescript/zod-message-protocol`
 
-`yarn add @total-typescript/zod-message-bus`
+`yarn add @total-typescript/zod-message-protocol`
 
-Usage
------------
-
+## Usage
