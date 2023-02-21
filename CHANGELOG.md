@@ -1,5 +1,11 @@
 # @total-typescript/zod-message-bus
 
+## 0.1.0
+
+### Minor Changes
+
+- 4aacc22: Added createMessageProtocol API
+
 ## 0.0.3
 
 ### Patch Changes
