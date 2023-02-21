@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "Matt Pocock",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "^2.26.0",
     "@types/node": "^18.14.0",
