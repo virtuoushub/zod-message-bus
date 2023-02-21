@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Matt Pocock",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.14.0",
     "tsup": "^6.6.3",
