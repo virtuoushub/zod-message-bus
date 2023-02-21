@@ -14,9 +14,18 @@
 		"ci": "pnpm run lint && pnpm run test && pnpm run build",
 		"release": "pnpm run lint && pnpm run test && pnpm run build && changeset publish"
 	},
-	"keywords": [],
+	"keywords": [
+		"zod",
+		"typescript"
+	],
 	"author": "Matt Pocock",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mattpocock/zod-message-bus.git"
+	},
+	"homepage": "https://github.com/mattpocock/zod-message-bus#readme",
+	"bugs": "https://github.com/mattpocock/zod-message-bus/issues",
 	"peerDependencies": {
 		"zod": "^3"
 	},
