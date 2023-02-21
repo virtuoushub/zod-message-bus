@@ -1,5 +1,11 @@
 # @total-typescript/zod-message-protocol
 
+## 0.1.2
+
+### Patch Changes
+
+- 2ab1e9f: Changed name to zod-message-protocol
+
 ## 0.1.1
 
 ### Patch Changes
